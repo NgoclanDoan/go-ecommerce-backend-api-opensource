@@ -1,9 +1,7 @@
 package routers
 
 import (
-	// "go-ecommerce-backend-api-opensource/internal/controllers"
-
-	controller "go-ecommerce-backend-api-opensource/internal/controllers"
+	"go-ecommerce-backend-api-opensource/internal/controller"
 
 	"github.com/gin-gonic/gin"
 )
